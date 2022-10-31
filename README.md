@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattia</h1>
 <h3 align="center">I'm a computer science student at UniGe (University of Genoa - Italy) and i'm a coffee enjoyer.</h3>
 
-<h3 align="left">Programming and markup languages which i known:</h3>
+<h3 align="left">Programming and markup languages i known:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
