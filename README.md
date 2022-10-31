@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mattia</h1>
-<h3 align="center">I'm a computer science student at UniGe (University of Genoa - Italy) and i'm a coffee enjoyer.</h3>
+<h3 align="center">I'm a Computer Science student at UniGe (University of Genoa - Italy) and i'm a coffee enjoyer.</h3>
 
 <h3 align="left">Programming and markup languages i known:</h3>
 <p align="left"> 
