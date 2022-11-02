@@ -13,4 +13,4 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
-<h4 align="left">"Talk is cheap. Show me the code."</h4>
+<h4 align="left">"Talk is cheap. Show me the code." - Linus Torvalds</h4>
