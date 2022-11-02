@@ -1,5 +1,5 @@
 <h1 align="center">"If you can create technology then you can change the world!"</h1>
-<h2 align="center">I'm a Computer Science student at UniGe (University of Genoa - Italy) and i'm a coffee enjoyer.</h2>
+<h2 align="left">Hi, i'm Mattia and i'm a Computer Science student at UniGe (University of Genoa - Italy) and i'm a coffee enjoyer.</h2>
 
 <h3 align="left">"Knowledge is power":</h3>
 <p align="left"> 
