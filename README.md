@@ -13,7 +13,9 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
+
 <h4 align="left">My public repositories requirement:</h4>
+
 <p align="left">
 1. A public repository should be useful in some way for anyone in case they need the same thing i was looking for.
   
