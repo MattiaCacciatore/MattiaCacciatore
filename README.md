@@ -17,6 +17,7 @@
 <h4 align="left">My public repositories requirement:</h4>
 
 <p align="left">
+  
 1. A public repository should be useful in some way for anyone in case they need the same thing i was looking for.
   
 2. A public repository should be complete, easy to download, compile and run.
@@ -26,6 +27,7 @@
 4. A public repository should show something of myself (my works, my studies, my course of study, my progression).
   
 5. A public repository should be correct, efficient and platform indipendent (when this is possible and/or useful).
-<\p>
+  
+</p>
   
 <h5 align="left">"Talk is cheap. Show me the code." - Linus Torvalds</h5>
