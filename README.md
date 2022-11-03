@@ -15,6 +15,7 @@
 </p>
 <h4 align="left">My public repositories requirement:</h4>
 <p align="left">
+  
   1. A public repository should be useful in some way for anyone in case they need the same thing i was looking for.
   
   2. A public repository should be complete, easy to download, compile and run.
