@@ -14,7 +14,7 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-<h4 align="left">My public repositories requirement:</h4>
+<h4 align="left">My public repositories requirements:</h4>
 
 <p align="left">
   
@@ -27,6 +27,8 @@
 4. A public repository should show something of myself (my works, my studies, my course of study, my progression).
   
 5. A public repository should be correct, efficient and platform indipendent (when this is possible and/or useful).
+  
+6. A public repository should be secure and thread-safe.
   
 </p>
   
