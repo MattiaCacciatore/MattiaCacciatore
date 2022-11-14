@@ -14,7 +14,7 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-<h4 align="left">My public repositories requirements:</h4>
+<h4 align="left">My public repository requirements:</h4>
 
 <p align="left">
   
