@@ -1,4 +1,4 @@
-<h1 align="center">"Trying to solve problems, one (micro-)step at a time"</h1>
+<h1 align="center">"Trying to solve problems, one (micro-)step at a time."</h1>
 <h2 align="center">Hi, i'm Mattia and i'm a Computer Science student at UniGe (University of Genoa - Italy) and i'm a coffee enjoyer.</h2>
 
 <h3 align="left">"Knowledge is power":</h3>
