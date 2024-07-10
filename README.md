@@ -1,7 +1,5 @@
-<h1 align="center">"Trying to solve problems, one (micro-)step at a time."</h1>
-<h2 align="center">Hi, i'm Mattia and i'm a Computer Science student at UniGe (University of Genoa - Italy) and i'm a coffee enjoyer.</h2>
+<h1 align="center">Trying to solve problems, one (micro-)step at a time.</h1>
 
-<h3 align="left">"Knowledge is power":</h3>
 <p align="left"> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -31,5 +29,3 @@
 6. A public repository should be secure and thread-safe.
   
 </p>
-  
-<h5 align="left">"Talk is cheap. Show me the code." - Linus Torvalds</h5>
