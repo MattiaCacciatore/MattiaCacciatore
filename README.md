@@ -12,7 +12,9 @@
   <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'          alt = 'javascript logo' width = '40' height = '40'/> </a>
   <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'             alt = 'css3 logo'       width = '40' height = '40'/> </a> 
   <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'           alt = 'html5 logo'      width = '40' height = '40'/> </a> 
+  <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'           alt = 'html5 logo'      width = '40' height = '40'/> </a> 
   <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg'                  alt = 'matlab logo'     width = '40' height = '40'/> </a> 
+  <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original-wordmark.svg'           alt = 'ocaml logo'      width = '40' height = '40'/> </a> 
 </p>
 
 <h4 align = 'left'>
