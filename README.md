@@ -3,8 +3,8 @@
 </h1>
 
 <p align = 'left'> 
-  <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'                            alt = 'c logo'          width = '40' height = '40'/> </a> 
-  <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'            alt = 'cplusplus logo'  width = '40' height = '40'/> </a> 
+  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'                            alt = 'c logo'          width = '40' height = '40'/>
+  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'            alt = 'cplusplus logo'  width = '40' height = '40'/>
   <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg'             alt = 'java logo'       width = '40' height = '40'/> </a>
   <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg'         alt = 'python logo'     width = '40' height = '40'/> </a> 
   <a href = '#'> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' alt = 'postgresql logo' width = '40' height = '40'/> </a>
